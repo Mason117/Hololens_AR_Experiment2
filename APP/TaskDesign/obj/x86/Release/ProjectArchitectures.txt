@@ -1,0 +1,2 @@
+D:\FProject\TaskDesign\APP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\FProject\TaskDesign\APP\TaskDesign\TaskDesign.csproj;x86
